@@ -1,0 +1,27 @@
+# Cruft
+*~
+*#
+.#*
+.DS_Store
+
+# Test
+coverage
+.eslintcache
+
+# Logs
+*.log
+*.cache
+
+# npm & yarn
+node_modules/
+.npm
+npm-debug.log*
+dist/
+dist/*
+coverage/
+coverage/*
+package/
+
+# Editor/IDE
+.idea
+packages/api/etc/
